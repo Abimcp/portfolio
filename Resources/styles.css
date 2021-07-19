@@ -34,17 +34,28 @@ html {
   max-width: 80vw;
   margin: 0 auto;
 }
-h1,
-h2 {
-  text-decoration: underline;
-  padding: 10px;
-  margin: 10px;
+
+main {
+  padding-top: 50px;
 }
 h1 {
+  text-align: center;
+  padding: 20px;
+  font-family: "Fira Sans", Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  text-decoration: underline;
 }
 h2 {
+  text-align: center;
+  padding: 20px;
+  font-family: "Fira Sans", Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  text-decoration: underline;
 }
 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 60px;
   width: 250px;
   height: 230px;
