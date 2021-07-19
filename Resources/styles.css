@@ -29,6 +29,12 @@ html {
     max-width: 100%;
     height: auto;
   }
+html{ 
+    font-family: monospace;
+    max-width: 80vw;
+    margin: 0 auto; 
+}
+
 
 img{
     
